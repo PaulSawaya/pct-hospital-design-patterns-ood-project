@@ -63,5 +63,5 @@ It utilizes multiple design patterns and follows the SOLID principles to ensure 
 
 ## 📄 Documentation
 
-- [✅ Project Report (PDF)](Documentation/Hospital Report.pdf)
+- [✅ Project Report (PDF)](Documentation/Hospital_Report.pdf)
 - [🧠 Class Diagram (StarUML)](Documentation/OOD_Paul_Tiana_Charbel.mdj)
